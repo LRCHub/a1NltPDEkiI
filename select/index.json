@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "檸檬の日々",
+  "base_artist": "WurtS",
+  "createdAt": "2025-12-30T16:49:32.712008Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "檸檬の日々",
+      "artist": "WurtS",
+      "has_synced": true,
+      "path": "select/01_檸檬の日々_WurtS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "檸檬の日々",
+      "artist": "WurtS",
+      "has_synced": true,
+      "path": "select/02_檸檬の日々_WurtS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "檸檬の日々",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/pl_01_檸檬の日々_WurtS.txt"
+    }
+  ]
+}
